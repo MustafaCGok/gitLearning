@@ -14,6 +14,14 @@ public class Login {
         // git commit -m "update message"  --> real record here   -->   change
         // git status           //
         // git log   -->   how many commit I had
+        // git commit -a " " = git add + git commit -m " "  --> not recommended
+
+        // fatal: remote  origin already exists.   -- eger  bu hata olursa asagidaki ile duzeltebiliriz
+        // git remote set-url origin
+
+
+
+
 
     }
 
