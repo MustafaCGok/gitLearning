@@ -8,7 +8,9 @@ public class Practice {
         System.out.println("Practice class test");
 
 
-
+        //git add .
+       // git commit -m "add message.ext"
+           // git push
 
     }
 
